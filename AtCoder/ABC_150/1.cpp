@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	int K, X;
 
-	cin >> K, X;
+	cin >> K >> X;
 
 	bool ans = X > K*500;
 
